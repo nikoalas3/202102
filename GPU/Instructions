@@ -1,0 +1,16 @@
+Can you take the lead on building an application for the GPU to see where we will run into problems.  Here is an idea.
+ 
+Develop a model on Google Colabs to see if someone is wearing a mask or not a mask (make it a very simple CNN)
+Port the model to the GPU. 
+Use the camera as an input to give a visual alert on the display if you are wearing a mask or not.  What is the real time performance?
+ 
+It would be good to see what the hurdles are in developing this application and if we need to change direction.   It’s probably best to see if you can port any model to the GPU then develop the mask model.
+ 
+Let me know  what  you think?
+ 
+ 
+If we get the mask model working maybe we can move it to looking at microscope cells or a the output from a dermatoscope.
+https://dermatoscopes.com/products/dermlite-carbon?variant=18666513793075&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaign=11006315904&content=460829834787&keyword=shopify_US_2247507968051_18666513793075&gclid=Cj0KCQiAzsz-BRCCARIsANotFgN7NsYVur5lmSdi6ZTmiRc4PWemc6VYD-JUHiv0kikCmx8jUxBOelsaAia2EALw_wcB
+ 
+With AI connected to a dermatoscope, we could identify skin lesions, insect bites, rashes . . . for general practitioners and even dermatologists.  I think this is a real commercial product idea.
+ 
